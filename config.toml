@@ -1,0 +1,35 @@
+baseurl = "https://duck-rabbitside.github.io"
+languageCode = "en-us"
+title = "The Duck-Rabbit Side"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = "spf13"
+theme = "hugo-minimalist-theme"
+
+[params]
+    site_author = "Veronica Bertollo"
+    site_description = "I'm happy to present my awesome blog build by the best brother ever Samuele Bertollo!!! I will talk about finance and trick to overcome yourself and other supercool stuff."
+    location = "United Kingdom - London"
+    # All paths are relative to the baseurl. Put your files
+    # somewhere in the static folder.
+    avatar = "img/profile-image.png"
+    header_background = "img/desk.jpg"
+    header_title = "The Duck-Rabbit Side"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "spf13"
+    facebook  = "aggiungere"
+    linkedin  = "aggiungere"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = ""
+    gplus     = ""
