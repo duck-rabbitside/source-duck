@@ -9,7 +9,7 @@ theme = "hugo-minimalist-theme"
 
 [params]
     site_author = "Veronica Bertollo"
-    site_description = "I'm happy to present my awesome blog build by the best brother ever Samuele Bertollo!!! I will talk about finance and trick to overcome yourself and other supercool stuff."
+    site_description = "I'm happy to present my awesome blog build by the best brother ever Samuele Bertollo!!! I will talk about finance and other things related."
     location = "United Kingdom - London"
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
@@ -25,11 +25,11 @@ theme = "hugo-minimalist-theme"
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = "spf13"
-    facebook  = "aggiungere"
-    linkedin  = "aggiungere"
-    behance   = ""
-    dribbble  = ""
-    instagram = ""
-    github    = ""
-    gplus     = ""
+#    twitter   = ""
+    facebook  = "https://www.facebook.com/veronica.bertollo.9"
+    linkedin  = "https://www.linkedin.com/in/veronica-bertollo-66008765?authType=NAME_SEARCH&authToken=ZXNL&locale=it_IT&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A230099688%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1484672741474%2Ctas%3Aver"
+#    behance   = ""
+#    dribbble  = ""
+#    instagram = ""
+#    github    = ""
+#    gplus     = ""
