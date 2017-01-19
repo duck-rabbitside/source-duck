@@ -13,8 +13,8 @@ theme = "hugo-minimalist-theme"
     location = "United Kingdom - London"
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "/img/profile-image.png"
+    header_background = "/img/desk.jpg"
     header_title = "The Duck-Rabbit Side"
     copyright = "Powered by [Hugo](http://gohugo.io)."
 
