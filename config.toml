@@ -8,7 +8,7 @@ disqusShortname = "spf13"
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Veronica Bertollo"
+    site_author = "Veronica Bertollo. Thanks for visiting my blog about new investment ideas and miscellaneous. I am Veronica Bertollo, Italian born, from a small town near Venice, moved to London to seek opportunities some years ago, passionate about the development of new ideas in the start-up universe. Chess player, proud Analyst at Knight Frank, ferocious reader of books. Fond of the importante of intuition in the analysts world and keen reader of philosophy. Baruch Spinoza lover."
     site_description = "I'm happy to present my awesome blog build by the best brother ever Samuele Bertollo!!! I will talk about finance and other things related."
     location = "United Kingdom - London"
     # All paths are relative to the baseurl. Put your files
